@@ -1,4 +1,4 @@
-[![Le site est](https://img.shields.io/website?url=https://cquoilejeu.fr)](https://cquoilejeu.fr)
+[![Website](https://img.shields.io/website?url=https://cquoilejeu.fr)](https://cquoilejeu.fr)
 
 ## **Mais qu’est-ce que C Quoi Le Jeu🤔?**
 
